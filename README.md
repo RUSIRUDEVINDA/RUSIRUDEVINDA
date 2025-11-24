@@ -24,13 +24,13 @@
 ## 🌐 Connect with Me
 <p>
   <a href="https://linkedin.com/in/rusiru devinda" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" height="32" style="margin-right:12px"/>
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" width="32" height="32" style="margin-right:12px"/>
   </a>
   <a href="https://instagram.com/__.rusirudevinda.__" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32" height="32" style="margin-right:12px"/>
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" width="32" height="32" style="margin-right:12px"/>
   </a>
   <a href="https://hashnode.com/@rusirudevinda" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" width="32" height="32"/>
+    <img src="[https://play.google.com/store/apps/details?id=com.hashnode.hashnode](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmarketplace%2Factions%2Fhashnode-blog&psig=AOvVaw3Jv7resG0D5Eqc3I2oBd5d&ust=1764093673423000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKDbvZ-vi5EDFQAAAAAdAAAAABAE)" width="32" height="32"/>
   </a>
 </p>
 
@@ -50,7 +50,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/amazonwebservices/amazonwebservices-icon.svg" width="40" height="40"/>
+  <img src=  width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
