@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rusiru Devinda</h1>
 <h3 align="center">A passionate Full Stack Developer from Sri Lanka, exploring the art of building smooth, intuitive, and user-focused digital solutions🚀✨</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rusirudevinda&label=Profile%20views&color=0e75b6&style=flat" alt="rusirudevinda" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rusirudevinda&label=Profile%20views&color=0e75b6&style=flat" alt="rusirudevinda" /> </p>
 
 - 🌱 I’m currently learning **Spring boot**
 
