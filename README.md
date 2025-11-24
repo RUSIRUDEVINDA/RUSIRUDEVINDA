@@ -17,9 +17,9 @@ A passionate Full Stack Developer from Sri Lanka, building smooth, user-focused 
 
 <h3 align="left" style="font-size:16px;">Connect with me:</h3>
 <p align="left" style="margin-top:5px;">
-  <a href="https://linkedin.com/in/rusiru devinda" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" style="margin:0 5px"/></a>
-  <a href="https://instagram.com/__.rusirudevinda.__" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30" style="margin:0 5px"/></a>
-  <a href="https://hashnode.com/@rusirudevinda" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" width="30" height="30" style="margin:0 5px"/></a>
+  <a href="https://linkedin.com/in/rusiru devinda" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="margin:0 5px; filter:invert(100%)"/></a>
+  <a href="https://instagram.com/__.rusirudevinda.__" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="30" height="30" style="margin:0 5px; filter:invert(30%)"/></a>
+  <a href="https://hashnode.com/@rusirudevinda" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hashnode.svg" alt="Hashnode" width="30" height="30" style="margin:0 5px; filter:invert(100%)"/></a>
 </p>
 
 <h3 align="left" style="font-size:16px;">Languages & Tools:</h3>
@@ -32,14 +32,25 @@ A passionate Full Stack Developer from Sri Lanka, building smooth, user-focused 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="35" height="35" style="margin:0 8px"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35" height="35" style="margin:0 8px"/>
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="35" height="35" style="margin:0 8px"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="35" height="35" style="margin:0 8px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="35" height="35" style="margin:0 8px"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="35" height="35" style="margin:0 8px"/>
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="35" height="35" style="margin:0 8px"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="35" height="35" style="margin:0 8px"/>
   </marquee>
 </p>
 
-<p align="left" style="display:flex; flex-wrap:wrap; gap:10px; margin-top:10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusirudevinda&show_icons=true&layout=compact&theme=transparent" alt="Top Languages" style="flex:1; min-width:200px;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rusirudevinda&show_icons=true&theme=transparent" alt="GitHub Stats" style="flex:1; min-width:200px;"/>
+<h3 align="left" style="font-size:16px;">Tech Inspiration:</h3>
+<p align="left" style="margin-top:5px;">
+  <marquee behavior="scroll" direction="right" scrollamount="4">
+    <img src="https://images.unsplash.com/photo-1518779578993-ec3579fee39f?auto=format&fit=crop&w=120&q=80" width="120" height="70" style="margin:0 8px; border-radius:6px"/>
+    <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=120&q=80" width="120" height="70" style="margin:0 8px; border-radius:6px"/>
+    <img src="https://images.unsplash.com/photo-1527430253228-e93688616381?auto=format&fit=crop&w=120&q=80" width="120" height="70" style="margin:0 8px; border-radius:6px"/>
+    <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=120&q=80" width="120" height="70" style="margin:0 8px; border-radius:6px"/>
+  </marquee>
+</p>
+
+<p align="left" style="margin-top:10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusirudevinda&show_icons=true&layout=compact&theme=dark" alt="Top Languages" style="margin-bottom:10px;"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rusirudevinda&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
