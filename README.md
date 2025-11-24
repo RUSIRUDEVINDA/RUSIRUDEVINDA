@@ -9,28 +9,27 @@
 
 ---
 
-### 🌱 Currently Learning  **Spring Boot**
+## 🌱 Currently Learning  **Spring Boot**
 
-### 👨‍💻 Projects  🔗 Portfolio: **<a href="https://portfolio-rusiru-devinda.vercel.app" target="_blank">portfolio-rusiru-devinda.vercel.app</a>**
+## 👨‍💻 Projects  🔗 Portfolio: **<a href="https://portfolio-rusiru-devinda.vercel.app" target="_blank">portfolio-rusiru-devinda.vercel.app</a>**
 
-### 📝 Articles  🖊 Hashnode: **<a href="https://hashnode.com/@rusirudevinda" target="_blank">hashnode.com/@rusirudevinda</a>**
+## 📝 Articles  🖊 Hashnode: **<a href="https://hashnode.com/@rusirudevinda" target="_blank">hashnode.com/@rusirudevinda</a>**
 
-### 📫 Contact  📧 **rusirud49@gmail.com**
+## 📫 Contact  📧 **rusirud49@gmail.com**
 
-### 📄 Resume  🔗 <a href="https://drive.google.com/file/d/1slKYnahy77QU8ePZW8pqAGUiIQNDeRaq/view?usp=sharing" target="_blank">View Here</a>
+## 📄 Resume  🔗 <a href="https://drive.google.com/file/d/1slKYnahy77QU8ePZW8pqAGUiIQNDeRaq/view?usp=sharing" target="_blank">View Here</a>
 
 ---
 
 ## 🌐 Connect with Me
-<p>
+<div align="left" style="display:flex; flex-wrap:nowrap; overflow-x:auto; padding:10px 0; gap:40px;">
   <a href="https://linkedin.com/in/rusiru devinda" target="_blank">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" width="32" height="32" style="margin-right:40px"/>
   </a>
   <a href="https://instagram.com/__.rusirudevinda.__" target="_blank">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" width="32" height="32" style="margin-right:40px"/>
   </a>
-</p>
-
+</div>
 ---
 
 ## 🛠 Languages & Tools
