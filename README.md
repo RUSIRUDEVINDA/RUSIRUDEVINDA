@@ -9,20 +9,15 @@
 
 ---
 
-### 🌱 Currently Learning  
-**Spring Boot**
+### 🌱 Currently Learning  **Spring Boot**
 
-### 👨‍💻 Projects  
-🔗 Portfolio: **<a href="https://portfolio-rusiru-devinda.vercel.app" target="_blank">portfolio-rusiru-devinda.vercel.app</a>**
+### 👨‍💻 Projects  🔗 Portfolio: **<a href="https://portfolio-rusiru-devinda.vercel.app" target="_blank">portfolio-rusiru-devinda.vercel.app</a>**
 
-### 📝 Articles  
-🖊 Hashnode: **<a href="https://hashnode.com/@rusirudevinda" target="_blank">hashnode.com/@rusirudevinda</a>**
+### 📝 Articles  🖊 Hashnode: **<a href="https://hashnode.com/@rusirudevinda" target="_blank">hashnode.com/@rusirudevinda</a>**
 
-### 📫 Contact  
-📧 **rusirud49@gmail.com**
+### 📫 Contact  📧 **rusirud49@gmail.com**
 
-### 📄 Resume  
-🔗 <a href="https://drive.google.com/file/d/1slKYnahy77QU8ePZW8pqAGUiIQNDeRaq/view?usp=sharing" target="_blank">View Here</a>
+### 📄 Resume  🔗 <a href="https://drive.google.com/file/d/1slKYnahy77QU8ePZW8pqAGUiIQNDeRaq/view?usp=sharing" target="_blank">View Here</a>
 
 ---
 
