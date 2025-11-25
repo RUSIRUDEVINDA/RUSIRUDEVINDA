@@ -9,7 +9,7 @@
 
 ---
 
-#### 🌱 Currently Learning  **Spring Boot**
+#### 🌱 Currently Learning  **Python**
 
 #### 👨‍💻 Projects  🔗 Portfolio: **<a href="https://portfolio-rusiru-devinda.vercel.app" target="_blank">portfolio-rusiru-devinda.vercel.app</a>**
 
