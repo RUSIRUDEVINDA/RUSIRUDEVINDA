@@ -63,7 +63,14 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusirudevinda&show_icons=true&layout=compact&theme=dark&hide_border=true" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rusirudevinda&show_icons=true&theme=dark&hide_border=true" height="160px" align= "right"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusirudevinda&show_icons=true&layout=compact&theme=dark&hide_border=true" height="160px" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=rusirudevinda&show_icons=true&theme=dark&hide_border=true" height="160px" />
+    </td>
+  </tr>
+</table>
+
