@@ -23,13 +23,13 @@
 
 ## 🌐 Connect with Me
 <div align="left" style="display:flex; flex-wrap:nowrap; overflow-x:auto; padding:10px 0; gap:40px;">
-  <a href="https://linkedin.com/in/rusiru devinda" target="_blank">
+  <a href="https://linkedin.com/in/rusiru-devinda" target="_blank">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" width="32" height="32" style="margin-right:40px"/>
   </a>
   <a href="https://instagram.com/__.rusirudevinda.__" target="_blank">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" width="32" height="32" style="margin-right:40px"/>
   </a>
-  <a href="https://www.hackerrank.com/@rusirud49" target="blank">
+  <a href="https://www.hackerrank.com/rusirud49" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rusirud49" width="32" height="32" style="margin-right:40px"/>
   </a>
 </div>
