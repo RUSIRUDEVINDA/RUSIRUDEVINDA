@@ -66,5 +66,16 @@
 
 ## 📊 GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusirudevinda&show_icons=true&layout=compact&theme=dark&hide_border=true" height="160px" /> <img src="https://github-readme-stats.vercel.app/api?username=rusirudevinda&show_icons=true&theme=dark&hide_border=true" height="160px" align= "right"/> </p>
+<p align="center">
+  <a href="https://github.com/rusirudevinda">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rusirudevinda&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Adityakanoi2001">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rusirudevinda&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rusirudevinda&theme=dark&hide_border=true"/>
+</p>
 
