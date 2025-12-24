@@ -1,4 +1,13 @@
-<h1 align="left">Hi 👋, I'm Rusiru Devinda</h1>
+<h1 align="left">
+  Hi 👋, I'm 
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&vCenter=true&width=435&lines=Rusiru+Devinda"
+      alt="Typing SVG"
+    />
+  </a>
+</h1>
+
 <h3 align="left" style="font-size:16px; font-weight:400;">
   A passionate Full Stack Developer from Sri Lanka, building smooth, user-focused digital solutions 🚀✨
 </h3>
