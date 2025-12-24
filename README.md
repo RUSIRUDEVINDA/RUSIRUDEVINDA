@@ -1,12 +1,12 @@
 <h1 align="left">
-  Hi 👋, I'm 
   <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&vCenter=true&width=435&lines=Rusiru+Devinda"
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Rusiru+Devinda;Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React;DevOps+%26+Cloud+Enthusiast"
       alt="Typing SVG"
     />
   </a>
 </h1>
+
 
 <h3 align="left" style="font-size:16px; font-weight:400;">
   A passionate Full Stack Developer from Sri Lanka, building smooth, user-focused digital solutions 🚀✨
