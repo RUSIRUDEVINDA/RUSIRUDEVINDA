@@ -24,7 +24,7 @@
 
 #### 👨‍💻 Projects  🔗 Portfolio: **<a href="https://portfolio-rusiru-devinda.vercel.app" target="_blank">portfolio-rusiru-devinda.vercel.app</a>**
 
-#### 📝 Articles  🖊 Hashnode: **<a href="https://hashnode.com/@rusirudevinda" target="_blank">hashnode.com/@rusirudevinda</a>**
+#### 📝 Articles  🖊 Medium: **<a href="https://medium.com/@rusirud49" target="_blank">hashnode.com/@rusirudevinda</a>**
 
 #### 📫 Contact  📧 **rusirud49@gmail.com**
 
