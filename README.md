@@ -28,7 +28,7 @@
 
 #### 📫 Contact  📧 **rusirud49@gmail.com**
 
-#### 📄 Resume  🔗 <a href="https://drive.google.com/file/d/1CoqNUjq4D_nxqZvkGF13gnyg_phaFDa6/view?usp=sharing" target="_blank">View Here</a>
+#### 📄 Resume  🔗 <a href="https://drive.google.com/file/d/1fqJVoenmGSXBMm6OmldmKLTvlYk0tJKB/view?usp=drive_link" target="_blank">View Here</a>
 
 ---
 
