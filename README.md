@@ -20,7 +20,7 @@
 
 ---
 
-#### 🌱 Currently Learning  **Python**
+#### 🌱 Currently Learning  **Nest.js**
 
 #### 👨‍💻 Projects  🔗 Portfolio: **<a href="https://portfolio-rusiru-devinda.vercel.app" target="_blank">portfolio-rusiru-devinda.vercel.app</a>**
 
