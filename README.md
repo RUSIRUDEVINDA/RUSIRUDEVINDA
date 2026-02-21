@@ -20,7 +20,7 @@
 
 ---
 
-#### 🌱 Currently Learning  **Nest.js**
+#### 🌱 Currently Learning  **Java SpringBoot**
 
 #### 👨‍💻 Projects  🔗 Portfolio: **<a href="https://portfolio-rusiru-devinda.vercel.app" target="_blank">portfolio-rusiru-devinda.vercel.app</a>**
 
