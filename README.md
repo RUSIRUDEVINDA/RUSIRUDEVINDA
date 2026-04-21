@@ -17,33 +17,47 @@
 
 ---
 
-#### 🌱 Currently Learning  **GO**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-#### 👨‍💻 Projects  
-🔗 Portfolio: https://portfolio-rusiru-devinda.vercel.app
+### 🌱 About Me
+- 🌱 Currently Learning **GO**
+- 📫 **Email:** rusirud49@gmail.com  
+- 📄 **Resume:**  
+  https://drive.google.com/file/d/1KKTqE0PY16PifLyXJ4_ymm0DVpnIhjlp/view  
 
-#### 📝 Articles  
-🖊 Medium: https://medium.com/@rusirud49
+</td>
 
-#### 📫 Contact  
-📧 **rusirud49@gmail.com**
+<td width="50%" valign="top">
 
-#### 📄 Resume  
-🔗 https://drive.google.com/file/d/1KKTqE0PY16PifLyXJ4_ymm0DVpnIhjlp/view
+### 🚀 Quick Links
+- 👨‍💻 **Portfolio**  
+  https://portfolio-rusiru-devinda.vercel.app  
+
+- 📝 **Medium Articles**  
+  https://medium.com/@rusirud49  
+
+- 🔗 **LinkedIn**  
+  https://linkedin.com/in/rusiru-devinda  
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🌐 Connect with Me
 
-<div align="left" style="display:flex; flex-wrap:wrap; gap:16px; padding:10px 0;">
-  <a href="https://linkedin.com/in/rusiru-devinda" target="_blank">
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" width="32" height="32"/>
+<div align="left" style="display:flex; gap:16px; padding:10px 0;">
+  <a href="https://linkedin.com/in/rusiru-devinda">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" width="32"/>
   </a>
-  <a href="https://instagram.com/__.rusirudevinda.__" target="_blank">
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" width="32" height="32"/>
+  <a href="https://instagram.com/__.rusirudevinda.__">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" width="32"/>
   </a>
-  <a href="https://www.hackerrank.com/rusirud49" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="32" height="32"/>
+  <a href="https://www.hackerrank.com/rusirud49">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="32"/>
   </a>
 </div>
 
@@ -74,13 +88,13 @@
 
 <!-- Row 4 -->
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40" height="40"/>
-  &nbsp;&nbsp;
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40"/>
+  &nbsp;
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40"/>
 </p>
 
 ---
