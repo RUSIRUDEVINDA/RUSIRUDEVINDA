@@ -33,15 +33,15 @@
 ---
 
 ## 🌐 Connect with Me
-<div align="left" style="display:flex; flex-wrap:nowrap; overflow-x:auto; padding:10px 0; gap:40px;">
+<div align="left" style="display:flex; flex-wrap:wrap; padding:10px 0; gap:16px;">
   <a href="https://linkedin.com/in/rusiru-devinda" target="_blank">
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" width="32" height="32" style="margin-right:40px"/>
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" width="32" height="32"/>
   </a>
   <a href="https://instagram.com/__.rusirudevinda.__" target="_blank">
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" width="32" height="32" style="margin-right:40px"/>
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" width="32" height="32"/>
   </a>
   <a href="https://www.hackerrank.com/rusirud49" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rusirud49" width="32" height="32" style="margin-right:40px"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rusirud49" width="32" height="32"/>
   </a>
 </div>
 
@@ -49,30 +49,40 @@
 
 ## 🛠 Languages & Tools
 
-<div align="left" style="display:flex; flex-wrap:nowrap; overflow-x:auto; padding:10px 0; gap:40px;">
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/GoLang.svg" width="40" height="40"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="40" height="40"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" width="40" height="40"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" width="40" height="40"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" width="40" height="40"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Dark.svg" width="40" height="40"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Dark.svg" width="40" height="40"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Spring-Dark.svg" width="40" height="40"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" width="40" height="40"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Dark.svg" width="40" height="40"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="40" height="40"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" width="40" height="40"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AWS-Dark.svg" width="40" height="40"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="40" height="40"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Dark.svg" width="40" height="40"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Git.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" width="40" height="40"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Dark.svg" width="40" height="40"/>
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" height="40"/>
-</div>
+<!-- Row 1: Languages -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,nodejs,html,css,js,ts,react,java,spring,python,tailwind,git" />
+</p>
+
+<!-- Row 2: Databases & Cloud -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,azure,docker,kubernetes,nginx,rabbitmq" />
+</p>
+
+<!-- Row 3: Frameworks & Tools -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=express,figma,postman" />
+  &nbsp;
+  <!-- Go Gin -->
+  <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="40"/>
+  &nbsp;
+  <!-- Go Fiber -->
+  <img src="https://img.shields.io/badge/Fiber-00ACD7?style=for-the-badge&logo=go&logoColor=white" height="40"/>
+  &nbsp;
+  <!-- ngrok -->
+  <img src="https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white" height="40"/>
+</p>
+
+<!-- Row 4: Data & ML -->
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" title="Pandas"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" title="OpenCV"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40" height="40" title="Oracle"/>
+  &nbsp;&nbsp;
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" height="40" title="scikit-learn"/>
+</p>
 
 ---
 
@@ -90,4 +100,3 @@
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rusirudevinda&theme=dark&hide_border=true"/>
 </p>
-
