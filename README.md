@@ -66,9 +66,11 @@
 
 <!-- Row 4: Data & ML -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,opencv,oracle,sklearn" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40" height="40"/>
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" height="40"/>
 </p>
-
 ---
 
 ## 📊 GitHub Stats
