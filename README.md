@@ -65,7 +65,7 @@
 </p>
 
 <!-- Row 4: Data & ML -->
-<p align="left">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" title="Pandas"/>
   &nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" title="OpenCV"/>
