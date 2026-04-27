@@ -69,6 +69,7 @@
   <img src="https://skillicons.dev/icons?i=opencv,sklearn" />
 </p>
 
+---
 
 ## 📊 GitHub Stats
 
