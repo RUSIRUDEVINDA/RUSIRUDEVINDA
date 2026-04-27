@@ -65,14 +65,9 @@
 </p>
 
 <!-- Row 4: Data & ML -->
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40"/></td>
-    <td><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40"/></td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=opencv,sklearn" />
+</p>
 ---
 
 ## 📊 GitHub Stats
