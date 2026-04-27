@@ -65,7 +65,7 @@
 </p>
 
 <!-- Row 4: Data & ML -->
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/></td>
