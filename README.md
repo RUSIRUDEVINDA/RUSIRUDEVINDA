@@ -20,7 +20,7 @@
 
 ---
 
-#### 🌱 Currently Learning  **GO**
+#### 🌱 Currently Learning  **GO & NEXT JS** 
 
 #### 👨‍💻 Projects  🔗 Portfolio: **<a href="https://portfolio-rusiru-devinda.vercel.app" target="_blank">portfolio-rusiru-devinda.vercel.app</a>**
 
