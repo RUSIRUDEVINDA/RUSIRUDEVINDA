@@ -20,7 +20,7 @@
 
 ---
 
-#### 🌱 Currently Learning  **springboot** 
+#### 🌱 Currently Learning  **Springboot** 
 
 #### 👨‍💻 Projects  🔗 Portfolio: **<a href="https://portfolio-rusiru-devinda.vercel.app" target="_blank">portfolio-rusiru-devinda.vercel.app</a>**
 
